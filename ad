@@ -1,0 +1,19 @@
+[33mcommit 97ef8e03efb2461fe5bee7db657a4424c369cc2d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Anh Truc <anhtruc2091997@gmail.com>
+Date:   Sun Dec 3 01:18:47 2023 +0700
+
+    Update calculator.sh
+    
+    version 3
+
+[33mcommit ac6fd0b8f92b61f27a8d63ce8ed278cb1be761a7[m
+Author: atruc97 <anhtruc2091997@gmail.com>
+Date:   Sun Dec 3 01:15:33 2023 +0700
+
+    this is my second version
+
+[33mcommit 45e134db668f3f5952e49c7bc8b2f8ce94610e0a[m
+Author: atruc97 <anhtruc2091997@gmail.com>
+Date:   Sun Dec 3 00:48:50 2023 +0700
+
+    this is my first version of addition
