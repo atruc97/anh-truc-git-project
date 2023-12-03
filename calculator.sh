@@ -3,11 +3,19 @@ y-a-b
 c=a-b
 
 
-<<<<<<< HEAD
 
-test tesst
-=======
+
 #division
 
 #multiplication
->>>>>>> mergeExample
+=======
+
+test tesst
+
+ádsadsadsadsadsad
+adssadsadsadsadsad
+sdasadsadsad
+
+
+
+
